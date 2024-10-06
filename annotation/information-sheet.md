@@ -1,7 +1,7 @@
 # Metalinguistic Disagreement Detection Study: Information Sheet
 
 ## Study Purpose
-This study aims to create a benchmark dataset for the Detection of metalinguistic disagreements between LLMs and knowledge graphs. Your participation will help advance our understanding of how large language models interpret and disagree about meaning in the context of ontology and knowledge engineering.
+This study aims to create a benchmark dataset for the detection of metalinguistic disagreements between LLMs and knowledge graphs. Your participation will help advance our understanding of how large language models interpret and disagree about meaning in the context of ontology and knowledge engineering.
 
 ## Background
 Metalinguistic disagreement occurs when people argue about the meaning or use of words rather than about facts or ideas. In contrast, a factual disagreement is about what is actually true in the world. Examples of factual disagreement are debating whether a tomato is healthier than an apple, or debating whether Sarah is taller than John; in contrast, examples of metalinguistic disagreement are arguing whether a tomato should be called a fruit or a vegetable, or arguing about what height qualifies as “tall” when describing a person.
